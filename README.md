@@ -7,7 +7,7 @@
 #### [Usage](#usage)
 #### [Contributing](#contributing)
 #### [Tests](#tests)
-#### [Questions](#questions)
+#### [Video](#video)
 
 ## Description:
 Used to add new departments, roles and employees and keep track of them.
@@ -23,9 +23,6 @@ n/a
 
 ## Tests:
 n/a
-
-## Images:
-
 
 ## Video: 
 
